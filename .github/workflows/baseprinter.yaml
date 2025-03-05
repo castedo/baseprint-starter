@@ -19,7 +19,7 @@ jobs:
     runs-on: ubuntu-24.04
     steps:
       - name: "Generate baseprint into autobaseprint branch and deploy preview to GitHub Pages"
-        uses: castedo/baseprinter-action@v9
+        uses: castedo/baseprinter-action@v10
         with:
           xargs-input: baseprinter-xargs.txt
           # do not use baseprint-path in sources

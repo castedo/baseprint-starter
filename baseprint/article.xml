@@ -4,7 +4,21 @@
       <title-group>
         <article-title>The Title</article-title>
       </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-1825-0097</contrib-id>
+          <name>
+            <surname>Doe</surname>
+            <given-names>J.</given-names>
+          </name>
+          <email>jdoe@example.com</email>
+        </contrib>
+      </contrib-group>
       <permissions>
+        <copyright-statement>© 2025, The Authors</copyright-statement>
+      <license>
+        <license-p>This document is distributed under the terms of ...</license-p>
+      </license>
       </permissions>
       <abstract>
 <p>The abstract

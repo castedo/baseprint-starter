@@ -1,3 +1,15 @@
 # Reference https://pandoc.org/MANUAL.html#defaults-files
 
 input-file: doc.md
+
+metadata:
+  author:
+  - surname: Doe
+    given-names: J.
+    email: jdoe@example.com
+    orcid: https://orcid.org/0000-0002-1825-0097
+  copyright:
+    statement: "© 2025, The Authors"
+  license:
+    # link: "https://creativecommons.org/licenses/by/4.0/"
+    text: This document is distributed under the terms of ...

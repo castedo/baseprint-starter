@@ -1,15 +1,19 @@
 <article xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
   <front>
     <article-meta>
+      <title-group>
+        <article-title>The Title</article-title>
+      </title-group>
       <permissions>
       </permissions>
       <abstract>
-
+<p>The abstract
+text.</p>
       </abstract>
     </article-meta>
   </front>
   <body>
-
+<p>The main document text.</p>
   </body>
   <back>
   </back>

@@ -1,4 +1,4 @@
-<article xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0/">
   <front>
     <article-meta>
       <title-group>
@@ -15,20 +15,19 @@
         </contrib>
       </contrib-group>
       <permissions>
-        <copyright-statement>© 2025, The Authors</copyright-statement>
-      <license>
-        <license-p>This document is distributed under the terms of ...</license-p>
-      </license>
+        <copyright-statement>&#169; 2025, The Authors</copyright-statement>
+        <license>
+          <ali:license_ref></ali:license_ref>
+          <license-p>This document is distributed under the terms of ...</license-p>
+        </license>
       </permissions>
       <abstract>
-<p>The abstract
+        <p>The abstract
 text.</p>
       </abstract>
     </article-meta>
   </front>
   <body>
-<p>The main document text.</p>
+    <p>The main document text.</p>
   </body>
-  <back>
-  </back>
 </article>

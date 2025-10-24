@@ -1,4 +1,4 @@
-<article xmlns:ali="http://www.niso.org/schemas/ali/1.0/">
+<article>
   <front>
     <article-meta>
       <title-group>
@@ -17,7 +17,7 @@
       <permissions>
         <copyright-statement>&#169; 2025, The Authors</copyright-statement>
         <license>
-          <ali:license_ref></ali:license_ref>
+          <license-ref> </license-ref>
           <license-p>This document is distributed under the terms of ...</license-p>
         </license>
       </permissions>
@@ -27,7 +27,7 @@ text.</p>
       </abstract>
     </article-meta>
   </front>
-  <body>
+  <article-body>
     <p>The main document text.</p>
-  </body>
+  </article-body>
 </article>
